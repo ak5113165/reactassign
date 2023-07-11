@@ -1,0 +1,45 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    /* width: 50vw; */
+}
+.tab{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    margin: 3px;
+    border: 2px black;
+}
+.col1{
+    width: 150px;
+    margin: 2px;
+    padding: 10px;
+    
+}
+.col2{
+    width: 150px;
+    margin: 2px;
+    padding: 10px;
+}
+.btn{
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+button{
+    width: 150px;
+    font-size: 20px;
+}

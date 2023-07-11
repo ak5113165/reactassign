@@ -1,0 +1,54 @@
+.nav{
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.left{
+padding: 20px;
+width: 50vw;
+}
+.right{
+padding: 20px;
+}
+.main{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+}
+form
+{
+    display: flex;flex-direction: column;
+}
+label{
+    width: 300px;
+    font-size: 20px;
+}
+input{
+    padding: 10px;
+    margin-top: 8px;
+}
+.dropdown{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+select{
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    font-size: 20px ;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+button{
+    width: 150px;
+    font-size: 20px;
+}
